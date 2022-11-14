@@ -1,0 +1,12 @@
+.DS_Store
+
+# Environments
+.venv
+env/
+venv/
+
+### Flask ###
+instance/*
+!instance/.gitignore
+.webassets-cache
+.env
